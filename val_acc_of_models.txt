@@ -1,0 +1,8 @@
+emnist_BatchNormalization.h5
+85%
+
+emnist_BatchNormalization_32.h5
+86%
+
+emnist_BatchNormalization_32_62.h5
+86%-87%
